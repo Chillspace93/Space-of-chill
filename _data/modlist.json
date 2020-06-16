@@ -18,10 +18,10 @@
     "version": "7.2.1"
   },
   {
-    "author": "Mehni",
-    "name": "4M Mehni's Misc Modifications",
-    "steamId": "1366888108",
-    "version": "1.1.8"
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
     "author": "sulusdacor, james76543, Meltup",
@@ -36,22 +36,34 @@
     "version": null
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": "1508850027",
-    "version": null
-  },
-  {
     "author": "jecrell",
     "name": "JecsTools",
     "steamId": "932008009",
     "version": "1.1.1.2"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "0.3.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "0",
+    "version": "4.0.7.0"
   },
   {
     "author": "Mod by Atlas. Gynoids edited by VerriganHolmes.",
@@ -114,12 +126,6 @@
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Animal Tab",
-    "steamId": "712141500",
-    "version": "4.6.264"
-  },
-  {
     "author": "Neceros",
     "name": "Antigrain",
     "steamId": "2016911592",
@@ -141,18 +147,6 @@
     "author": "jeonggihun",
     "name": "Archotech Brain",
     "steamId": "2117372066",
-    "version": null
-  },
-  {
-    "author": "Razor 2.3",
-    "name": "Auto-Cut Blight",
-    "steamId": "1885186534",
-    "version": null
-  },
-  {
-    "author": "Ben",
-    "name": "Automatic NightOwl",
-    "steamId": "2056012179",
     "version": null
   },
   {
@@ -318,12 +312,6 @@
     "version": null
   },
   {
-    "author": "Chowder",
-    "name": "Cryogenic Generator",
-    "steamId": "2000153664",
-    "version": null
-  },
-  {
     "author": "leion247",
     "name": "Cultured Meat",
     "steamId": "1420944836",
@@ -366,12 +354,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Spincrus",
-    "name": "Dinosauria",
-    "steamId": "1136958577",
-    "version": null
-  },
-  {
     "author": "Dr_Zhivago",
     "name": "DocPawnOverhaul",
     "steamId": "1975381493",
@@ -394,36 +376,6 @@
     "name": "Doors Expanded",
     "steamId": "1316188771",
     "version": "1.3.1.0"
-  },
-  {
-    "author": "Gloomylynx",
-    "name": "Dragonian",
-    "steamId": "1573217648",
-    "version": null
-  },
-  {
-    "author": "Velc",
-    "name": "Hats Display Selection",
-    "steamId": "1542291825",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Gloomylynx NukaFrog",
-    "name": "Dragonian Race",
-    "steamId": "1632800575",
-    "version": null
-  },
-  {
-    "author": "Aperture staff",
-    "name": "Dragonian Race Apparel Patch",
-    "steamId": "1818368800",
-    "version": null
-  },
-  {
-    "author": "Aperture staff",
-    "name": "Dragonian Race Weapons permit CE and not CE Patch",
-    "steamId": "1817691403",
-    "version": null
   },
   {
     "author": "pelador",
@@ -492,12 +444,6 @@
     "version": "1.5.1167"
   },
   {
-    "author": "NilchEi",
-    "name": "Dynamic Diplomacy",
-    "steamId": "1875168898",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Jaxxa",
     "name": "ED-Embrasures",
     "steamId": "722085442",
@@ -508,12 +454,6 @@
     "name": "EdB Prepare Carefully",
     "steamId": "735106432",
     "version": "1.1.9"
-  },
-  {
-    "author": "Saakra",
-    "name": "Empire",
-    "steamId": "2006535182",
-    "version": "0.320"
   },
   {
     "author": "Vambypants",
@@ -624,28 +564,10 @@
     "version": null
   },
   {
-    "author": "Neceros",
-    "name": "Give Me A Break",
-    "steamId": "2014862617",
-    "version": null
-  },
-  {
-    "author": "K",
-    "name": "GlitterNet",
-    "steamId": "1725544583",
-    "version": null
-  },
-  {
     "author": "Albion",
     "name": "Go Explore!",
     "steamId": "1814100216",
     "version": "1.1.0"
-  },
-  {
-    "author": "avilmask",
-    "name": "Grazing Lands",
-    "steamId": "1770268130",
-    "version": "1.0.0.0"
   },
   {
     "author": "Mlie",
@@ -670,6 +592,12 @@
     "name": "HALO: Rimworld Heretic Mechanoids",
     "steamId": "2011336696",
     "version": null
+  },
+  {
+    "author": "Velc",
+    "name": "Hats Display Selection",
+    "steamId": "1542291825",
+    "version": "1.0.0.0"
   },
   {
     "author": "ItsComcastic",
@@ -1002,6 +930,12 @@
     "version": "0.1.1.0"
   },
   {
+    "author": "Neceros",
+    "name": "Plant Growth Sync",
+    "steamId": "2084148729",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Mlie",
     "name": "Plasteel Surgery (Continued)",
     "steamId": "2018276375",
@@ -1036,12 +970,6 @@
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
     "version": "2.1.7"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Puppeteer",
-    "steamId": "2057192142",
-    "version": "0.3.0.0"
   },
   {
     "author": "Hatti",
@@ -1125,7 +1053,7 @@
     "author": "sirrandoo",
     "name": "Remove Death Amnesia",
     "steamId": "1905421159",
-    "version": "2.0.0.2"
+    "version": "2.0.0.3"
   },
   {
     "author": "Uuugggg",
@@ -1138,6 +1066,12 @@
     "name": "ResearchPal",
     "steamId": "946390822",
     "version": "1.1.3.0"
+  },
+  {
+    "author": "ruPal",
+    "name": "RimPy Mod Manager Database",
+    "steamId": "1847679158",
+    "version": null
   },
   {
     "author": "Eagle0600",
@@ -1158,15 +1092,15 @@
     "version": "1.2.774"
   },
   {
+    "author": "Storm",
+    "name": "Rimworld Farming",
+    "steamId": "1718638765",
+    "version": null
+  },
+  {
     "author": "Uuugggg",
     "name": "Room Food",
     "steamId": "1339148170",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "neceros",
-    "name": "Room Size Tolerance",
-    "steamId": "2018432252",
     "version": "1.0.0.0"
   },
   {
@@ -1180,6 +1114,12 @@
     "name": "RunAndGun",
     "steamId": "1204108550",
     "version": null
+  },
+  {
+    "author": "user19990313",
+    "name": "RuntimeGC",
+    "steamId": "2046596586",
+    "version": "20.0.15.1"
   },
   {
     "author": "likeafox",
@@ -1350,24 +1290,6 @@
     "version": null
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "0",
-    "version": "4.0.7.0"
-  },
-  {
     "author": "Smash Phil",
     "name": "Trade Ships Drop Spot",
     "steamId": "1969732297",
@@ -1425,6 +1347,36 @@
     "author": "NEPH, Maxim",
     "name": "Utility Columns",
     "steamId": "2013476665",
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Fabrics Simplified",
+    "steamId": "2007062335",
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Vegetable Garden",
+    "steamId": "2007061826",
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Gourmet",
+    "steamId": "2007062982",
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Medicine",
+    "steamId": "2007063140",
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Resources",
+    "steamId": "2007063451",
     "version": null
   },
   {
@@ -1734,24 +1686,6 @@
     "version": null
   },
   {
-    "author": "Crustypeanut",
-    "name": "[1.0, 1.1] RimCuisine 2 Core",
-    "steamId": "1833592062",
-    "version": null
-  },
-  {
-    "author": "Bob",
-    "name": "[1.1] TicksPerSecond",
-    "steamId": "2014026734",
-    "version": null
-  },
-  {
-    "author": "Chicken Plucker",
-    "name": "[CP] Prisoner Outfit",
-    "steamId": "1507216525",
-    "version": null
-  },
-  {
     "author": "Fluffy",
     "name": "Fluffy Breakdowns",
     "steamId": "726244033",
@@ -1761,12 +1695,6 @@
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": "1157350972",
-    "version": null
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Encounter Map Resources",
-    "steamId": "1417825411",
     "version": null
   },
   {
@@ -1843,12 +1771,6 @@
   },
   {
     "author": "Syrchalis",
-    "name": "[SYR] Doormats",
-    "steamId": "1508778962",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Syrchalis",
     "name": "[SYR] More Slaves",
     "steamId": "2021510577",
     "version": "1.0.0.0"
@@ -1894,17 +1816,5 @@
     "name": "[XND] Tiny Tweaks",
     "steamId": "2017485672",
     "version": "1.0.4.0"
-  },
-  {
-    "author": "Mlie",
-    "name": "[sd] Luciferium Production (Continued)",
-    "steamId": "2019014307",
-    "version": "1.0.2.0"
-  },
-  {
-    "author": "LingLuo",
-    "name": "multi-stage heater",
-    "steamId": "2012792039",
-    "version": null
   }
 ]

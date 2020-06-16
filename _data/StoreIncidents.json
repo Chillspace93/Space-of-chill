@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 5000,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 15000,
+		"price": 2600,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 10000,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -282,7 +282,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -292,12 +292,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 800,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1000,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
